@@ -99,6 +99,9 @@ optional = true
 
 [dependencies.tree-sitter-c]
 version = "0.24.0"
+package = "tree-sitter-pseudoc"
+git = "https://github.com/AraCoders/tree-sitter-pseudoc"
+branch = "main"
 optional = true
 
 [dependencies.tree-sitter-c-sharp]
